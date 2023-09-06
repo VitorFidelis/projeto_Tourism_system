@@ -11,5 +11,3 @@
 <h3>2° Tela com os componentes(checkbox)selecionados 📸<h3>
 
 <img src="imagens/imgs_Tourism.2.png" alt="tela com os componentes selecionados">
-
-<h3>3° Video de apresentação 🎥<h3>
